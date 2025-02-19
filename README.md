@@ -1,3 +1,3 @@
 # first-demo
 This is my first Git Repository.
-Editor - Sumit kumar
+Author - Sumit kumar
